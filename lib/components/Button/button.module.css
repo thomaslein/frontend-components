@@ -1,6 +1,6 @@
 .button {
     font-family: Helvetica, Arial, sans-serif !important;
-    border-radius: 8px;
+    border-radius: 20px;
     border: 1px solid transparent;
     padding: 0.6em 1.2em;
     font-size: 1em;
@@ -13,7 +13,7 @@
 
 .button:hover {
     background-color: #5359c5;
-    color: white;
+    color: red;
 }
 
 .button:focus,
