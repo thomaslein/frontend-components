@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import { Button, Label, Input } from '../lib/main';
+import { Button, Label, Input } from '..';
 
 function App() {
   const [inputCustomLabelValue, setInputCustomLabelValue] = useState('');
